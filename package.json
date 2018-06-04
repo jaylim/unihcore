@@ -1,6 +1,6 @@
 {
   "name": "unihcore",
-  "version": "4.1.10",
+  "version": "4.1.11",
   "description": "A platform to build bitcoin and blockchain-based applications.",
   "author": "Jay <jay@pentajeu.com>",
   "main": "index.js",
